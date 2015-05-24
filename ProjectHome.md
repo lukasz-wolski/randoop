@@ -1,3 +1,5 @@
+[Click here](http://mernst.github.io/randoop/) to get to the Randoop project page.
+
 ## What is Randoop? ##
 
 Randoop is an automatic unit test generator for Java. It automatically creates unit tests for your classes, in JUnit format.
